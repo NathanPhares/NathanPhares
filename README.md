@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone! 
 
 <!--
 **NathanPhares/NathanPhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![beautiful-mountain-nature-colorful-scenery-minimalist-uhdpaper com-4K-4 3057](https://user-images.githubusercontent.com/89474610/131548148-2aad1cba-72a6-4e8b-87ad-7a23984f30d2.jpg)
+>*Just thought I'd throw a quick pretty landscape in here*
+
+### *About me:*
+My name is Nathan Phares, and I live in Mohall, North Dakota. I am currently a junior in aerospace engineering, and I am hoping to get into military and then commercial aviation once I graduate. My hobbies include working out, rock climbing, playing guitar, reading, and sports.
